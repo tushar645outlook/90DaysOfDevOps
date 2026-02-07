@@ -8,6 +8,7 @@ Responsibilities:
   Device drivers
   System calls (syscalls)
 You don’t touch it daily, but everything runs through it
+**IMP URL for Core component of Linux: https://www.geeksforgeeks.org/linux-unix/architecture-of-linux-operating-system/**
 
 **User Space**
 Where you live
